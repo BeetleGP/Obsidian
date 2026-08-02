@@ -5,4 +5,4 @@ tags:
   - "#js/learn"
   - "#methods"
 ---
-foreach
+
