@@ -1,0 +1,5 @@
+---
+related: "[[Family]]"
+tags:
+  - "#family"
+---
