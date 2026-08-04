@@ -1,3 +1,3 @@
 ---
-related: "[[Programming]]"
+related: "[[IT]]"
 ---
